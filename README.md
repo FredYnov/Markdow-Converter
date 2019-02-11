@@ -28,3 +28,6 @@ L'utilisateur du convertisseur a le choix entre l'option 1 qui lance le converti
 
 Lorsque l'utilisateur lance le convertisseur, la commande suivante s'execute:
 
+__"python -m markdown " + fichier + " > index.html"
+
+Le fichier HTML est alors converti et se trouve dans le même dossier que le fichier Markdown d'origine.
